@@ -20,6 +20,6 @@ if [ -z "$(which youtube-dl)" ]; then
 fi
 
 mkdir dist/
-pip3 install -r requirements.txt && echo "Everything ready, type: 'TELEGRAM_BOT_TOKEN=XXXX:XXXXXXXXXX python3 main.py' to start bot"
+pip3 install -r requirements.txt && echo "Everything ready, type: 'TELEGRAM_BOT_TOKEN=5628419327:AAEJ7cmEWbXvzI7NEzhq4hx3Ybh7vrV_s7c python3 main.py' to start bot"
 
 
